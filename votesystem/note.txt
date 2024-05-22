@@ -1,0 +1,11 @@
+candidate 
+
+    on admin page when click on new button then called from candidate_modal page (id)
+
+
+
+
+
+
+
+

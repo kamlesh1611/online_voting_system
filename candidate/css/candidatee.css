@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: #202020;
+    padding: 1% 0 0 0;
+    display: flex;
+}
+
+
+.nav-hr {
+    display: inline;
+    background-color: #202020;
+    color: #e5e5e5;
+}
+
+.main-content {
+    background-color: #e5e5e5;
+}
